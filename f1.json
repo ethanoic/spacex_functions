@@ -1,0 +1,1 @@
+{"launchpad":"Kwajalein Atoll","all_failures":[{"name":"Trailblazer","failures":["residual stage-1 thrust led to collision between stage 1 and stage 2"]},{"name":"DemoSat","failures":["harmonic oscillation leading to premature engine shutdown"]},{"name":"FalconSat","failures":["merlin engine failure"]}]}
